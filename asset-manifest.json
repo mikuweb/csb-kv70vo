@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://mikuweb.github.io/csb-kv70vo/static/css/main.3fc0e403.chunk.css",
+    "main.js": "https://mikuweb.github.io/csb-kv70vo/static/js/main.2151c6f6.chunk.js",
+    "main.js.map": "https://mikuweb.github.io/csb-kv70vo/static/js/main.2151c6f6.chunk.js.map",
+    "runtime-main.js": "https://mikuweb.github.io/csb-kv70vo/static/js/runtime-main.e4a85cd5.js",
+    "runtime-main.js.map": "https://mikuweb.github.io/csb-kv70vo/static/js/runtime-main.e4a85cd5.js.map",
+    "static/js/2.94c33914.chunk.js": "https://mikuweb.github.io/csb-kv70vo/static/js/2.94c33914.chunk.js",
+    "static/js/2.94c33914.chunk.js.map": "https://mikuweb.github.io/csb-kv70vo/static/js/2.94c33914.chunk.js.map",
+    "index.html": "https://mikuweb.github.io/csb-kv70vo/index.html",
+    "static/css/main.3fc0e403.chunk.css.map": "https://mikuweb.github.io/csb-kv70vo/static/css/main.3fc0e403.chunk.css.map",
+    "static/js/2.94c33914.chunk.js.LICENSE.txt": "https://mikuweb.github.io/csb-kv70vo/static/js/2.94c33914.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4a85cd5.js",
+    "static/js/2.94c33914.chunk.js",
+    "static/css/main.3fc0e403.chunk.css",
+    "static/js/main.2151c6f6.chunk.js"
+  ]
+}
